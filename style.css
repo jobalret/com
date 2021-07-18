@@ -1,0 +1,39 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+img{
+  width: 100%;
+  border-style: double;
+  margin-bottom: 100px;
+}
+.main{
+  text-align: center;
+  padding: 50px;
+  background-color: #FDF6F0;
+  font-style: oblique;
+  font:black;
+  text-shadow:2px;
+}
+h2{
+  text-align: center;
+  background-color: green;
+  height: 50px;
+padding: 5px%;
+}
+.navbar{
+  color: #71EFA3;
+}
+#admit{
+  text-align: center;
+}
